@@ -35,10 +35,10 @@ For this recipe I've already lower the usage of sugar, and fat compare to some o
 
 1. Sieve in a bowl _(to avoid lumps)_, respectively: Rice Flour, sugar, Corn starch, salt.
 2. Use a whisk to mix it.
-3. Open a well _(in the middle)_ to pour in the milk gradually while stiring.
+3. Open a well _(in the middle)_ to pour in the milk gradually while stirring.
 4. Mix evenly, it is ready when it dripped without leaving any trace or lines.
 5. Sieve the mixture into shallow plate to reduce steaming time. _(remove the air bubble by tapping gently the recipient on the table)_.
-6. Steam them on boiling water. _(prevent water vaper from dripping down covering the preparation)_.
+6. Steam them on boiling water. _(prevent water vapor from dripping down covering the preparation)_.
 7. Steam on High Heat for 20mins. _(using a shallow plate)_.
 8. It's cooked when it is a bit translucent light beige color _(sticky)_.
 9. Melt 35g of unsalted butter by scraping the dough when it still hot (warning it is VERY HOT!).
@@ -68,7 +68,7 @@ _(Who never prepared Sweet Whipped Cream, milk fat should be at least 30% minimu
 4. Continue to Whip, add the baked flour and Vanilla extract.
 5. Whip until it become really firm (stiff peaks).
 
-For Information: Well wipped cream, you might be able to turn upside down, without making it fall _(with no motion)_
+For Information: Well whipped cream, you might be able to turn upside down, without making it fall _(with no motion)_
 
 ### Assembling
 
@@ -85,7 +85,7 @@ You can present it into a round container (after put on fridge or freezer for 2 
 
 ### Dough
 
-- You can reduce the size by 2 if you desire to make a mouthful piece of mochi. (becareful it's more delicate on the wrapping part).
+- You can reduce the size by 2 if you desire to make a mouthful piece of mochi. (Be careful it's more delicate on the wrapping part).
 
 ### Whipped Cream
 
@@ -95,4 +95,4 @@ The case that your cream is still liquid after 10mins of whipping:
 
 - Prepare a bowl of water + salt + ice pack (in order to lower the temperature the freezing should be about -21°C instead of 0°C). Then put in it  the bowl of your whip cream to finish the process. _(Tips that I use in summer weather without aircon in the kitchen)_
 
-- You can add some `mascarpone`: italian cream cheese rich in milk fat. (That could save the recipe).
+- You can add some `mascarpone`: Italian cream cheese rich in milk fat. (That could save the recipe).
