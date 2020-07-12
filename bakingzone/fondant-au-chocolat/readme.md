@@ -15,7 +15,7 @@ Recipe for 4 person
 
 ## Processing
 
-0. pre heat the oven at 180°C (for about 10min).
+0. Pre heat the oven at 180°C (for about 10min).
 
 1. Melt butter with chocolate (ie: bain-marie).
 2. Mix eggs with sugar (gently).
