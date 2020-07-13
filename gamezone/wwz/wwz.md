@@ -75,7 +75,7 @@ They can be adjusted especially when you knows your pre-mate gaming style.
 
 ### Tier I
 
-![scout_rifle](.resources/t1_scout_rifle.jpg)
+![scout_rifle](./resources/t1_scout_rifle.jpg)
 ![compact_smg](./resources/t1_compact_smg.jpg)
 ![shotgun](./resources/t1_shotgun.jpg)
 ![pistol](./resources/t1_pistol.jpg)
