@@ -45,7 +45,10 @@ For now there are 5 levels to prestige in order to unlock all your `class` perks
 
 Tested in Insane and Extreme mode with random pickup match making
 
+
 ## Gunslinger (AK)
+
+![gunslinger](./resources/01gunslinger.jpg)
 
 * [Fire In The Hole] Frag Grenades Can Kill 25% more targets (base value: 14).
 * [Front Line Supply] Headshots made with a primary or a secondary weapon automatically restore 5% rounds to the magazine.
@@ -77,6 +80,8 @@ Custom game play can switch between both :
 
 ## Hellraiser (Shotgun)
 
+![hellraiser](./resources/02hellraiser.jpg)
+
 * [Here Kitty] C4 will attract zombies for 5 seconds after being planted.
 * [Welcoming Committee] Any mortar used by you or your teammate can kill 25% more targets with a single round.
 * [Nimble Thumbs] Increases the reload speed of shotgun weapons by 50%.
@@ -107,6 +112,8 @@ Custom game play can switch between both :
 
 ## Medic (SMG)
 
+![medic](./resources/03medic.jpg)
+
 * [Triage] You apply Medkits 50% faster.
 * [Paramedic] Increases the revive speed by 50%.
 * [Big Pharma] Increases the amount of Stim Pistol charges to 4.
@@ -135,6 +142,8 @@ Custom game play can switch between both :
 
 ## Fixer (semi-auto / rifle)
 
+![fixer](./resources/04fixer.jpg)
+
 * [Paramedic] Increases the revive speed by 50%.
 * [Night Owl] Masking Grenades grant an additional temporary health boost. You start with Masking Grenades.
 * [Cloakroom] Reviving a teammate grants masking effect for 3 seconds for both of you.
@@ -162,6 +171,8 @@ There is two way to play fixer, according to the Team level:
 
 
 ## Slasher 
+
+![slasher](./resources/05slasher.jpg)
 
 * [All Elbows] Decreases the movement speed penalty when zombies are very close by 100%.
 * [Zeus] Increases the range of the Stun Gun by 50% and the maximum amount of targets that can be struck at the same time to 20 (base range is 12 meters, base target count is 15).
@@ -198,6 +209,8 @@ Custom game play can switch between both :
 
 ## Exterminator (Assault Rifle)
 
+![exterminator](./resources/06exterminator.jpg)
+
 * [Pyromaniac] Molotov's fire damage is increased by 50%.
 * [All Elbows] Decreases the movement speed penalty when zombies are very close by 100%.
 * [Heavy Metal II] The character starts with an improved Taiga-12 Heavy Assault Shotgun, dealing 25% more damage and having 25% more ammo. All Taiga-12 Heavy Assault Shotgun pickups are improved.
@@ -220,6 +233,8 @@ Quite fun class which is able to make some solo actions.
 
 
 ## Dronemaster
+
+![dronemaster](./resources/07dronemaster.png)
 
 * [Longshot] Quadrocopter's attack range increased by 100% (base: 2 meters for stun gun, 15 meters for pistol).
 * [Lightning Storm] Your Quadrocopter's stun gun's fire rate is increased by 50%.
@@ -258,22 +273,6 @@ They can be adjusted especially when you knows your pre-mate gaming style.
 * **Slasher**: 222|223|213 or 322|211|213
 * **Exterminator**: 223|332|221 or 223|332|223
 * **DroneMaster**: 332|222|313
-
-### Illustration
-
-![gunslinger](./resources/01gunslinger.jpg)
-
-![hellraiser](./resources/02hellraiser.jpg)
-
-![medic](./resources/03medic.jpg)
-
-![fixer](./resources/04fixer.jpg)
-
-![slasher](./resources/05slasher.jpg)
-
-![exterminator](./resources/06exterminator.jpg)
-
-![dronemaster](./resources/07dronemaster.png)
 
 ## Weapons List
 
